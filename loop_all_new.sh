@@ -1,0 +1,16 @@
+#!/bin/bash
+/home/pi/sierad_fa/script/loop01_rh30_new.sh
+/home/pi/sierad_fa/script/loop02_rh35_new.sh
+/home/pi/sierad_fa/script/loop03_rh40_new.sh
+/home/pi/sierad_fa/script/loop04_rh45_new.sh
+/home/pi/sierad_fa/script/loop05_rh50_new.sh
+/home/pi/sierad_fa/script/loop06_rh55_new.sh
+/home/pi/sierad_fa/script/loop07_rh60_new.sh
+/home/pi/sierad_fa/script/loop08_rh65_new.sh
+/home/pi/sierad_fa/script/loop09_rh70_new.sh
+/home/pi/sierad_fa/script/loop10_rh75_new.sh
+/home/pi/sierad_fa/script/loop11_rh80_new.sh
+/home/pi/sierad_fa/script/loop12_rh85_new.sh
+/home/pi/sierad_fa/script/loop13_rh90_new.sh
+/home/pi/sierad_fa/script/loop14_rh95_new.sh
+/home/pi/sierad_fa/script/loop15_rh100_new.sh
